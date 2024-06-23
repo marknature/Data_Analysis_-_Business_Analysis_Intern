@@ -1,6 +1,5 @@
 # Data Analysis/Business Analysis
 
-
 ## MeriSKILL Data Analyst Internship
 
 ### Welcome to the Team!
