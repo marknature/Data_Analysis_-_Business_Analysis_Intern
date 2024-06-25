@@ -1,4 +1,4 @@
-# Data Analysis/Business Analysis
+# Data Analysis / Business Analysis
 
 ## MeriSKILL Data Analyst Internship
 
