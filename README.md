@@ -12,7 +12,7 @@ Congratulations on being selected for the virtual learning internship as a Data 
 - **Expectations:**
   - Contribute to data-driven initiatives
   - Gain insights into real-world data analysis challenges
-- **Rewards:**
+- **Rewards ($12):**
   - Certificate of Completion
   - Letter of Recommendation
 
